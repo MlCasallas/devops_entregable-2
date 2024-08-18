@@ -1,0 +1,16 @@
+{
+  "name": "devops_clase",
+  "version": "1.0.0",
+  "description": "Proyecto de prueba con la clase de devops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "milton y nestor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
+
