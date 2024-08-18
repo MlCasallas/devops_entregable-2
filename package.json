@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "echo 'No build script defined'"
   },
   "author": "milton y nestor",
   "license": "ISC",
@@ -13,4 +14,3 @@
     "express": "^4.19.2"
   }
 }
-
